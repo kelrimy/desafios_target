@@ -11,4 +11,3 @@ if fibonacci(numero):
 else:
     print(f"O número {numero} não pertence à sequência de Fibonacci.")
 
-fibonacci()
